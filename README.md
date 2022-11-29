@@ -1,2 +1,2 @@
 # machineLearning
-polynomial regression
+
